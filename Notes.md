@@ -49,3 +49,14 @@ Divided this task into 2 subtasks -
 - Using computer vision based models for question extraction. (LayoutLM, LLaVa)
 - Using other retrieval method for finding similar questions. (Retrieval-reranking, ColBERT embeddings)
 - Prompt engineering
+
+
+### Executing the code
+```
+pip install -r requirements.txt
+python3 run.py data/1/21200-input-limit.pdf data/1/21200-output-atbay.pdf
+```
+Generated files -
+1. limit.json -> Parsed limit application file
+2. other_pdf.json -> Parsed other application file
+3. answers.txt -> A textfile listing all the questions in the second application, choices and appropriate answers to them.
