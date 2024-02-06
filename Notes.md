@@ -34,6 +34,8 @@ Divided this task into 2 subtasks -
 - Along with prompt I send these to LLM to generate answers for that query.
 - I have used `langchain` framework for handling LLM part.
 
+![Query-question similarity](que-query-similarity.png)
+
 ### Time required
 
 |     | Task                          | Time spent (Hours) |
