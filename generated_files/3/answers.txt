@@ -1,0 +1,527 @@
+Name of Organization (Applicant)
+[]
+Good Builders
+
+Mailing Address
+[]
+999 South Platte St, New Brunswick, NJ 07080
+
+Type Of Ownership Structure
+['Public', 'Private', 'Investment Fund', 'Not For Profit', 'Government']
+Private
+
+Description Of Business
+[]
+Not enough information
+
+Date Established
+[]
+1999
+
+Number Of Employees
+[]
+Not enough information
+
+Annual Revenue ($):
+[]
+$7,500,000
+
+Website Address(es):
+[]
+www.goodbuilders.com
+
+Policy Period Requested:
+[]
+Not enough information
+
+Policy Aggregate Limit Of Insurance:
+[]
+Not enough information
+
+Policy Deductible:
+[]
+Not enough information
+
+Time Deductible:
+[]
+Not enough information
+
+Aggregate Sublimit(s) Of Insurance:
+[]
+Not enough information
+
+Social Engineering Coverage Limit (if applicable):
+[]
+Not enough information
+
+Social Engineering Deductible (if applicable):
+[]
+Not enough information
+
+Reverse Social Engineering Coverage Limit (if applicable):
+[]
+Not enough information
+
+Reverse Social Engineering Deductible (if applicable):
+[]
+Not enough information
+
+Dedicated Breach Costs Limit (if applicable):
+[]
+Not enough information
+
+Service Fraud including Cryptojacking Limit (if applicable):
+[]
+Not enough information
+
+Does Your organization encrypt all emails containing sensitive information (including, but not limited to, Personally Identifiable Information (PII), Personal Health Information (PHI), Payment Card Information (PCI)) sent to external parties?
+['Yes', 'No']
+No
+
+Does Your organization encrypt all sensitive information (including, but not limited to, PII, PHI, PCI) stored on computing and/or mobile devices (including, but not limited to, phones, tablets, laptops, wearable computers, flash drives)?
+['Yes', 'No']
+No
+
+Does Your organization have an individual officially designated for overseeing information security?
+['Yes', 'No']
+Not enough information
+
+Does Your organization have sensitive information (e.g., PII, PHI, PCI) stored on the cloud (including, but not limited to, Carbonite, Google Drive, Dropbox)?
+['Yes', 'No']
+Not enough information
+
+Does Your organization provide mandatory information security training to all employees at least annually?
+['Yes', 'No']
+Yes
+
+If yes, are Your information security personnel provided with additional training to help them understand current security threats?
+['Yes', 'No']
+Not enough information
+
+Has your organization ever been a party to any of the following: Civil or criminal action or administrative proceeding alleging violation of any federal, state, local or common law?
+['Yes', 'No']
+Not enough information
+
+Is there currently any pending litigation, administrative proceeding or claim against the named applicant, organization and/or any of the prospective insured?
+['Yes', 'No']
+Not enough information
+
+During the last three (years, has Your organization suffered a security breach requiring customer or third-party notification according to state or federal regulations, cyber extortion or business interruption arising from a cyber event?
+[]
+Not enough information
+
+Do You want to purchase Computer and Funds Transfer Fraud coverage?
+['Yes', 'No']
+Not enough information
+
+Requested sublimit for Business and Contingent Business Income and Extra Expense*: *Your selected BI sublimit will cap at $1,000,000
+[]
+Not enough information
+
+Would You like to cap Your retroactive coverage?
+['1 year', '2 years', 'Full Prior Acts']
+Not enough information
+
+Do You want to add an Additional Insured?
+['Yes', 'No']
+No
+
+Do you want to purchase coverage for Social Engineering Incidents?
+['Yes', 'No']
+Not enough information
+
+Do You or Your employees verify third-party bank accounts before adding to your accounts payable systems?
+['Yes', 'No']
+Yes
+
+Do You have an established and documented verification procedure requiring that You or Your employees authenticate all funds transfer requests, whether made to a third-party or otherwise by way of a secondary method of communication from the initial request for funds transfer (as one example, by calling the intended recipient to verify the request at a predetermined phone number if the funds transfer request was made by email)?
+['Yes', 'No']
+Yes
+
+Do You or Your employees prevent unauthorized employees from initiating wire transfers?
+['Yes', 'No']
+Yes
+
+Do you want to purchase Reverse Social Engineering coverage?
+['Yes', 'No']
+Not enough information
+
+Do You want to purchase Hardware Replacement coverage?
+['Yes', 'No']
+Not enough information
+
+Do You want to purchase Telecommunications Fraud coverage?
+['Yes', 'No']
+Not enough information
+
+Do You want to purchase Post Breach Remediation coverage?
+['Yes', 'No']
+Not enough information
+
+Do you want to purchase Website Media Content Liability coverage?
+['Yes', 'No']
+Not enough information
+
+Do you want to purchase coverage for Enhanced Business and Contingent Business Income?
+['Yes', 'No']
+Not enough information
+
+Please indicate how frequently You, or Your outsourced service, backup sensitive/critical data and critical systems:
+['Daily', 'Weekly', 'Monthly', 'Quarterly', 'Annually', 'Less frequently than Annually or Never']
+Monthly
+
+Please identify which of the following business continuity measures Your organization has in place:
+['Documented Business Continuity Plan', 'Documented Disaster Recovery Plan', 'Documented Incident Response Plan']
+Not enough information
+
+Do you want to purchase coverage for Enhanced Business and Contingent Business Income inclusive of System Failure?
+['Yes', 'No']
+Not enough information
+
+Do you want to purchase coverage for Dedicated Breach Costs?
+['Yes', 'No']
+Not enough information
+
+Do you want to purchase Service Fraud and Cryptojacking coverage?
+['Yes', 'No']
+Not enough information
+
+For the purpose of this Application, the undersigned authorized officer of the organization named in Section I. of this Application declares that, to the best of the organization's knowledge, the statements herein are true, accurate and complete. The insurer is authorized to make any inquiry in connection with this Application. Signing this Application does not bind the insurer to issue, or the applicant to purchase, any insurance policy issued in connection with this Application, digital or otherwise. Certain questions and answers included in this Application are not part of an applicant's digital application, if applicable. The applicant declares that all questions and answers contained in this Application, to the best of the organization's knowledge, are true, accurate and complete.
+[]
+Not enough information
+
+The information contained in and submitted with this Application is on file with the insurer. The insurer will have relied upon this Application and its attachments in issuing the Policy.
+[]
+Not enough information
+
+If the information in this Application materially changes prior to the effective date of the Policy, the applicant will promptly notify the insurer, who may modify or withdraw the quotation.
+[]
+Not enough information
+
+The undersigned declares that the individuals and entities proposed for this insurance have been notified that the limit of liability is reduced by amounts incurred as "Defense Expenses" (as defined in the Policy), and such expenses will be subject to the deductible amount.
+[]
+Not enough information
+
+Misrepresentation of any material fact in this Application may be grounds for the rescission of this Policy.
+[]
+Not enough information
+
+General Fraud Warning
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison. (Not applicable in AL, AK, AZ, AR, CA, CO, DE, DC, FL, ID, IN, HI, KS, KY, LA, ME, MD, MN, NH, NJ, NM, NY, OH, OK, OR, PA, PR, TN, VA, WA)
+[]
+Not enough information
+
+Alabama Fraud Warning
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or who knowingly presents false information in an application for insurance is guilty of a crime and may be subject to restitution, fines, or confinement in prison, or any combination thereof.
+[]
+Not enough information
+
+Alaska Fraud Warning
+
+A person who knowingly and with intent to injure, defraud, or deceive an insurance company files a claim containing false, incomplete, or misleading information may be prosecuted under state law.
+[]
+Not enough information
+
+Arizona Fraud Warning
+
+For your protection Arizona law requires the following statement to appear on this form: Any person who knowingly presents a false or fraudulent claim for payment of a loss is subject to criminal and civil penalties.
+[]
+Not enough information
+
+Arkansas Fraud Warning
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+[]
+Not enough information
+
+SP CW 23
+
+Includes copyrighted material of Insurance Services Office, Inc., with its permission
+[]
+Not enough information
+
+Page 7 of 10
+[]
+Not enough information
+
+California Fraud Warning
+[]
+Not enough information
+
+Colorado Fraud Warning
+[]
+Not enough information
+
+Delaware Fraud Warning
+[]
+Not enough information
+
+District Of Columbia Fraud Warning
+[]
+Not enough information
+
+Florida Fraud Warning
+[]
+Not enough information
+
+Idaho Fraud Warning
+[]
+Not enough information
+
+Indiana Fraud Warning
+[]
+Not enough information
+
+Hawaii Fraud Warning
+[]
+Not enough information
+
+Kansas Fraud Warning
+[]
+Not enough information
+
+Kentucky Fraud Warning
+[]
+Not enough information
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+[]
+Not enough information
+
+It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties may include imprisonment, fines, or a denial of insurance benefits.
+[]
+Not enough information
+
+Any person who knowingly or willfully presents a false or fraudulent claim for payment of a loss or benefit or who knowingly or willfully presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+[]
+Not enough information
+
+A person who files a claim with intent to defraud, or helps commit a fraud against an insurer, is guilty of a crime.
+[]
+Not enough information
+
+Any person who, with a purpose to injure, defraud or deceive any insurance company, files a statement of claim containing any false, incomplete or misleading information is subject to prosecution and punishment for insurance fraud, as provided in RSA 638:20.
+[]
+Not enough information
+
+Any person who includes false or misleading information on an application for an insurance policy is subject to criminal and civil penalties.
+[]
+Not enough information
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to civil fines and criminal penalties.
+[]
+Not enough information
+
+Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime, and shall also be subject to a civil penalty not to exceed five thousand dollars and the stated value of the claim for each such violation.
+[]
+Not enough information
+
+Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance fraud.
+[]
+Not enough information
+
+WARNING: Any person who knowingly, and with intent to injure, defraud or deceive any insurer, makes any claim for the proceeds of an insurance policy containing any false, incomplete or misleading information is guilty of a felony.
+[]
+Not enough information
+
+SP CW 23
+
+Includes copyrighted material of Insurance Services Office, Inc., with its permission
+
+Page 9 of 10
+[]
+Not enough information
+
+Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents materially false information in an application for insurance may be guilty of a crime and may be subject to fines and confinement in prison. In order for us to deny a claim on the basis of misstatements, misrepresentations, omissions or concealments on your part, we must show that:
+[]
+Not enough information
+
+A. The misinformation is material to the content of the policy;
+[]
+Not enough information
+
+B. We relied upon the misinformation; and
+[]
+Not enough information
+
+C. The information was either:
+['1. Material to the risk assumed by us;', '2. Provided fraudulently.']
+Not enough information
+
+For remedies other than the denial of a claim, misstatements, misrepresentations, omissions or concealments on your part must either be fraudulent or material to our interests. Misstatements, misrepresentations, omissions or concealments on your part are not fraudulent unless they are made with the intent to knowingly defraud.
+[]
+Not enough information
+
+Pennsylvania Fraud Warning
+[]
+Not enough information
+
+Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information or conceals for the purpose of misleading, information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties.
+[]
+Not enough information
+
+Puerto Rico Fraud Warning Any person who knowingly and with the intention of defrauding presents false information in an insurance application, or presents, helps, or causes the presentation of fraudulent claim for the payment of a loss or any other benefit, or presents more than one claim for the same damage or loss, shall incur a felony and, upon conviction, shall be sanctioned for each violation with the penalty of a fine not less than five thousand dollars ($5,and not more than ten thousand dollars ($10,000), or a fixed term of imprisonment for three (years, or both penalties. Should aggravating circumstances be present, the penalty thus established may be increased to a maximum of five (years, if extenuating circumstances are present, it may be reduced to a minimum of two (years.
+[]
+Not enough information
+
+Tennessee Fraud Warning It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+[]
+Not enough information
+
+Virginia Fraud Warning It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+[]
+Not enough information
+
+Washington Fraud Warning It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+[]
+Not enough information
+
+SP CW 23
+
+Includes copyrighted material of Insurance Services Office, Inc., with its permission
+
+Page of 10
+[]
+Not enough information
+
+You are hereby notified that under the Terrorism Risk Insurance Act, as amended, you have a right to purchase insurance coverage for losses resulting from acts of terrorism. Do you want to purchase terrorism insurance coverage?
+['Yes', 'No']
+Not enough information
+
+Your premium for terrorism coverage is: $
+[]
+Not enough information
+
+By clicking this box, I affirm that I have read this Notice and hereby choose to decline to purchase coverage for certified acts of terrorism. Do you choose to reject the offer for terrorism insurance coverage?
+[]
+Not enough information
+
+Spinnaker Insurance Company is required by law to obtain Your consent to engage in electronic delivery of Your policy and related forms. You may:
+['Select ONLY electronic delivery', 'Select ONLY paper delivery', 'Select BOTH electronic delivery and paper delivery', 'Withdraw Your previous consent to receive electronic delivery']
+Not enough information
+
+Please indicate Your choice from the options below. Your selection applies to You and any other insureds entitled to receive copies of such forms under the policy.
+['ELECTRONIC DELIVERY ONLY', 'PAPER DELIVERY ONLY', 'BOTH ELECTRONIC DELIVERY AND PAPER DELIVERY', 'WITHDRAWAL OF CONSENT OF ELECTRONIC DELIVERY']
+Not enough information
+
+I select electronic delivery of the form(s) indicated below. I acknowledge that I will not receive paper copies of these form(s), unless I notify Spinnaker Insurance Company or my agent/broker of my decision to entirely withdraw electronic consent or modify my selection to also include paper delivery.
+[]
+Not enough information
+
+Policy
+[]
+Not enough information
+
+Notices of Cancellation and Nonrenewal
+[]
+Not enough information
+
+Other forms related to my policy
+[]
+Not enough information
+
+I select paper delivery of my policy and all related forms. I acknowledge that I will only receive paper copies of such forms.
+[]
+Not enough information
+
+I select the option to receive both electronic and paper delivery of my policy and all related forms.
+[]
+Not enough information
+
+I withdraw my consent to receive electronic delivery of my policy and/or related forms. In the future, I will only receive paper copies of such forms.
+[]
+Not enough information
+
+If You elect to have Your insurance policy and related documents sent to You by electronic delivery, it is Your responsibility to update Your email address should it change at any time during the life of the policy. Further, Your election to have Your insurance policy and related documents transmitted to You electronically shall remain in effect until You notify:
+
+Spinnaker Insurance Company c/o Boost Insurance Agency, Inc. W 21st Street. 7th Floor New York, NY 10010
+
+in writing of Your withdrawal of such consent.
+[]
+Not enough information
+
+SP CW 22
+[]
+Not enough information
+
+Name of Individual to Receive Documents by Electronic Delivery
+[]
+Not enough information
+
+E-mail Address of Individual to Receive Documents by Electronic Delivery
+[]
+Not enough information
+
+First Named Insured
+[]
+Not enough information
+
+Print Name of First Named Insured’s Authorized Representative
+[]
+Not enough information
+
+Signature of First Named Insured’s Authorized Representative
+[]
+Not enough information
+
+Date
+[]
+Not enough information
+
+SP CW 22
+[]
+Not enough information
+
+Page 2 of 2
+[]
+Not enough information
+
+I affirm that I have read, and Cowbell Insurance Agency has advised me to carefully read, the terms, conditions, limitations, exclusions and any applicable endorsements of the commercial cyber insurance policy that I am applying for, which have been made available to me.
+[]
+Not enough information
+
+I affirm that the information that I have provided throughout the application for this insurance is, to the best of my knowledge, true, accurate, and complete.
+[]
+Not enough information
+
+I understand that any non-disclosure, misrepresentation or non-payment of premium may result in cancellation of or non-renewal of this policy.
+[]
+Not enough information
+
+I understand and agree that my application for this Commercial Cyber Policy will be submitted electronically, and the policy documents related to this insurance, including any notices and updates thereto (collectively, the “Policy Documents”), will be made available to me electronically.
+[]
+Not enough information
+
+Cowbell Insurance Agency is authorized to send, and I agree to accept delivery of, all Policy Documents electronically; accordingly, I understand that I will not be receiving copies of the Policy Documents by standard mail unless required by the department of insurance of the state in which the Policy is issued or pursuant to my request.
+[]
+Not enough information
+
+If I decide that I no longer wish to receive the Policy Documents electronically, I shall contact Cowbell Insurance Agency at support@cowbellcyber.ai to request that the Policy Documents be sent to me by non-electronic delivery.
+[]
+Not enough information
+
+It is my responsibility to provide Cowbell Insurance Agency with a valid and current email address and to check that email address regularly for important Policy Documents from Cowbell Insurance Agency or a valid current address to which Cowbell Insurance Agent can send important Policy Documents to the extent such documents are delivered to me by non-electronic delivery.
+[]
+Not enough information
+
+I have read Cowbell Insurance Agency Terms of Use (available at https://cowbell.insure/terms/ and upon request), Insurance Fraud Warnings accompanying my application, and State-Specific Signature-Bearing Endorsements accompanying my application.
+[]
+Not enough information
+
+I represent that I am not currently aware of any accidents, facts or circumstances occurring between the effective date of coverage under this policy at 12:AM and today's date, that may result in future claims covered under Cowbell Cyber Prime 100.
+[]
+Not enough information
+
+Name:
+[]
+Not enough information
+
+Signature:
+[]
+Not enough information
+
+Date:
+[]
+Not enough information

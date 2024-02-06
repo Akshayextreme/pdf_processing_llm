@@ -1,0 +1,195 @@
+By completing this Application, the Applicant is applying for a Policy which contains one or more Insuring Agreements, some of which provide liability for Claims ﬁrst made against any Insured during the Policy Period, or any applicable Extended Reporting Period, and reported to us pursuant to the terms of this Policy. Claim Expenses shall reduce the applicable Aggregate Limit of Insurance and Sub-Limits of Insurance and are subject to the applicable Retentions.
+[]
+Not enough information
+
+Please read the entire Application and Policy carefully before signing.
+[]
+Not enough information
+
+Whenever used in this Application, the term "Applicant" shall mean the Named Insured and all Subsidiaries, unless otherwise stated. All other terms which appear in bold type herein are used in this Application with the same respective meanings as set forth in the Cyber Insurance Policy (AB-CYB-Ed.08/2018).
+[]
+Named Insured and all Subsidiaries
+
+Name of Applicant
+[]
+Good Builders
+
+(Optional) Applicant's DBA
+[]
+Not enough information
+
+Applicant's address
+[]
+Not enough information
+
+(Optional) Suite, Floor, Unit, etc...
+[]
+Not enough information
+
+Applicant's previous ﬁscal year-end revenue
+[]
+$7,500,000
+
+Applicant's primary website
+[]
+www.goodbuilders.com
+
+Applicant's industry
+['Agriculture, Forestry, Fishing and Hunting', 'Mining', 'Utilities', 'Construction', 'Manufacturing', 'Wholesale Trade', 'Retail Trade', 'Transportation and Warehousing', 'Information', 'Finance and Insurance', 'Real Estate Rental and Leasing', 'Professional, Scientiﬁc, and Technical Services', 'Management of Companies and Enterprises', 'Administrative and Support and Waste Management and Remediation Services', 'Educational Services', 'Health Care and Social Assistance', 'Arts, Entertainment, and Recreation', 'Accommodation and Food Services', 'Other Services (except Public Administration)', 'Public Administration', 'Technology']
+Construction
+
+Is the Applicant engaged in any of the following business activities? (select all that apply)
+['Adult Content', 'Cannabis', 'Cryptocurrency or Blockchain', 'Gambling', 'Payment Processing (e.g., as a payment processor, merchant acquirer, or Point of Sale system vendor)', 'Debt collection agency', 'Managed IT service provider (MSP or MSSP)', 'None of the above']
+None of the above
+
+Does the Applicant store or process personal, health, or credit card information of more than 500,individuals?
+['Yes', 'No']
+No
+
+Does the Applicant keep offline backups that are disconnected from its network or store backups with a cloud service provider?
+['Yes', 'No']
+Yes
+
+Does the Applicant have multi-factor authentication enforced on all email access?
+['Yes', 'No']
+Yes
+
+Does the Applicant have multi-factor authentication enforced on all remote access including VPN or other remote network access?
+['Yes', 'No']
+Yes
+
+Which of the following Inbound Email Security products (i.e. Secure Email Gateway (SEG)) products does the Applicant use, if any?
+['Appriver', 'Avanan', 'Barracuda', 'Darktrace', 'Datto', 'Google', 'Inky', 'Intermedia', 'Ironscales', 'Microsoft Defender for O365', 'Mimecast', 'Perception Point', 'Proofpoint', 'Vade', 'No SEG in Place', 'Other/Unknown']
+Not enough information
+
+Which of the following Endpoint Detection & Response (EDR) products does the Applicant use, if any?
+['CrowdStrike Falcon Insight EDR', 'Cybereason Endpoint Detection and Response (EDR)', 'Cycraft XSensor', 'Cynet AutoXDR', 'Fortinet FortiEDR', 'IBM Security QRadar EDR', 'MalwareBytes Endpoint Detection and Response (EDR)', 'Microsoft Defender for Endpoint (E5)', 'Palo Alto Networks Cortex XDR', 'SentinelOne Singularity EDR', 'Symantec Endpoint Detection and Response (EDR)', 'Trellix Endpoint Detection and Response (EDR)', 'No EDR in Place', 'Other/Unknown']
+Not enough information
+
+In the last three (years, has the Applicant experienced in excess of $10,any Cyber Event, Loss, or been the subject of any Claim made for a Wrongful Act that would fall within the scope of the Policy for which the Applicant is applying?
+['Yes', 'No']
+No
+
+Is the Applicant aware of any fact, circumstance, situation, event, or Wrongful Act which reasonably could give rise to a Cyber Event, Loss, or a Claim being made against them that would fall within the scope of the Policy for which the Applicant is applying?
+['Yes', 'No']
+No
+
+The undersigned authorized representative (the Applicant's Chief Executive Ofﬁcer, Chief Financial Ofﬁcer, Chief Security Ofﬁcer, Chief Technology Ofﬁcer, Chief Information Ofﬁcer, Risk Manager, General Counsel, or any functionally equivalent positions, regardless of title) of the Applicant declares that to the best of their knowledge and belief, after reasonable inquiry, the statements set forth in this application, are true and complete and may be relied upon by the insurer providing, and reviewing, this application for insurance.
+[]
+Not enough information
+
+Authorized Representative Title*
+[]
+Not enough information
+
+Authorized Representative Name*
+[]
+Not enough information
+
+Authorized Representative Signature*
+[]
+Not enough information
+
+Today’s Date (MM/DD/YY)*
+[]
+Not enough information
+
+Signature Requirements: The Applicant's Chief Executive Ofﬁcer, Chief Financial Ofﬁcer, Chief Security Ofﬁcer, Chief Technology Ofﬁcer, Chief Information Ofﬁcer, Risk Manager, General Counsel, or any functionally equivalent positions, regardless of title.
+[]
+Not enough information
+
+Security Contact Information
+[]
+Not enough information
+
+At-Bay offers active risk monitoring and security alerts with every policy. Whenever a new threat or vulnerability is detected, we send a security alert to the affected client with information on the threat and recommendations on how to stay safe. Please note that these alerts have no effect on coverage. Please provide the contact details of at least one individual who may be contacted by At-Bay regarding any security alerts or updates.
+[]
+Not enough information
+
+Required Security Contact Name
+[]
+Not enough information
+
+Required Email
+[]
+Not enough information
+
+Required Phone
+[]
+Not enough information
+
+Optional Security Contact Name
+[]
+Not enough information
+
+Email
+[]
+Not enough information
+
+Phone
+[]
+Not enough information
+
+AB-CYB-SAP | Cyber Insurance Short Application
+[]
+No
+
+If the information in any Application changes prior to the inception date of the Policy, the Applicant will notify the insurer of such changes, and the insurer may modify or withdraw any outstanding quotation. The insurer is authorized to make inquiry in connection with this Application.
+[]
+Not enough information
+
+Should the insurer issue a Policy, Applicant agrees that such Policy is issued in reliance upon the truth of the statements and representations in the Application or incorporated by reference herein, any misrepresentation, omission, concealment or otherwise, shall be grounds for the rescission of any Policy issued.
+[]
+Not enough information
+
+Signing of this Application does not bind the Applicant or the insurer to complete the insurance, but it is agreed that this Application and any information incorporated by reference hereto, shall be the basis of the contract should a Policy be issued, and is incorporated into and is part of the Policy.
+[]
+Not enough information
+
+All written statements, materials or documents furnished to the insurer in conjunction with this Application are hereby incorporated by reference into this Application and made a part hereof, including without limitation, any supplemental Applications or questionnaires, any security assessment, all representations made with respect to any security assessment, and all information contained in or provided by you with respect to any security assessment.
+[]
+Not enough information
+
+Any person who knowingly and with intent to defraud any insurance company or other person ﬁles an Application for insurance or statement of Claim containing any materially false information or, conceals, for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent act, which is a crime and may subject such person to criminal and civil penalties.
+[]
+Not enough information
+
+It is unlawful to knowingly provide false, incomplete, or misleading facts or information to an insurance company for the purpose of defrauding or attempting to defraud the company. Penalties may include imprisonment, ﬁnes, denial of insurance, and civil Damages. Any insurance company or agent of an insurance company who knowingly provides false, incomplete, or misleading facts or information to a Policyholder or claimant for the purpose of defrauding or attempting to defraud the Policyholder or claimant with regard to a settlement or award payable from insurance proceeds shall be reported to the Colorado Division of Insurance within the Department of Regulatory Agencies.
+[]
+Not enough information
+
+Any person who knowingly and with intent to injure, defraud, or deceive any insurer ﬁles a statement of Claim or an Application containing any false, incomplete or misleading information is guilty of a felony of the third degree.
+[]
+Not enough information
+
+Any person who knowingly presents a false or fraudulent Claim for payment of a Loss or beneﬁt, or presents false information in an Application for insurance, is guilty of a crime and may be subject to ﬁnes and conﬁnement in prison.
+[]
+Not enough information
+
+It is a crime to knowingly provide false, incomplete, or misleading information to an insurance company for the purpose of defrauding the company. Penalties include imprisonment, ﬁnes, and denial of insurance beneﬁts.
+[]
+Not enough information
+
+Any person who knowingly and with intent to defraud any insurance company or other person ﬁles an Application for insurance or statement of Claim containing any materially false information or conceals for the purpose of misleading, information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties. (In New York, the civil penalty is not to exceed ﬁve thousand dollars ($5,and the stated value of the Claim for each such violation.)
+[]
+Not enough information
+
+Any person who knowingly presents a false or fraudulent Claim for payment of a Loss or beneﬁt or who knowingly presents false information in an Application for insurance may be guilty of a crime and may be subject to ﬁnes and conﬁnement in prison.
+[]
+Not enough information
+
+AB-CYB-SAP | Cyber Insurance Short Application
+[]
+No
+
+Any person who knowingly and with the intention of defrauding presents false information in an insurance Application, or presents, helps, or causes the presentation of a fraudulent Claim for the payment of a Loss or any other beneﬁt, or presents more than one Claim for the same damage or Loss, shall incur a felony and, upon conviction, shall be sanctioned for each violation with the penalty of a ﬁne of not less than ﬁve thousand dollars ($5,and not more than ten thousand dollars ($10,000), or a ﬁxed term of imprisonment for three (years, or both penalties. Should aggravating circumstances be present, the penalty thus established may be increased to a maximum of ﬁve (years; if extenuating circumstances are present, it may be reduced to a minimum of two (years.
+[]
+Not enough information
+
+AB-CYB-SAP | Cyber Insurance Short Application
+[]
+No
+
+10⠀/⠀10
+[]
+Not enough information
