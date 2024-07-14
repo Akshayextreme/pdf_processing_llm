@@ -1,4 +1,4 @@
-## Limit Machine Learning Challenge Notes
+## Solution Notes
 
 I have divided the problem into 3 parts -
 1. Parsing PDF files
