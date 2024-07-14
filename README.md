@@ -1,14 +1,3 @@
-## Limit Machine Learning Challenge
-
-The following is an interview challenge designed to test:
-- Your programming ability;
-- Your familiarity with NLP and LLM techniques;
-- Your creative problem-solving ability.
-
-We expect you to spend about ten hours on this. There is no need to try to solve the problem **exactly** as we put it -- it is too large and
-too difficult to deliver a perfect solution. Rather, you should see this as an opportunity to produce a proof-of-concept and impress us 
-with the techniques you use in the challenge.
-
 ### Task Background
 
 We have provided two folders, each containing two PDFs. 
@@ -39,57 +28,3 @@ Using the answers in the Limit Application, create answers to the questions in t
 
 **Output**
 A textfile listing all the questions in the second application, and appropriate answers to them.
-
-### FAQs
-
-Q. What are all the directories and files for? 
-A. The files we have provided for you are for you to test your solution. They're all slightly different, so they'll help you
-    assess how general your solution is.
-
-
-Q. What do the answers in the Second Applications mean?
-A. We've given you these answers to show you how we would fill it out. Consider these as examples of
-    correct question-answer mappings from the Limit Application to the Second Application.
-
-
-Q. What files will you be testing against?
-A. We have our own files to test against. We know that achieving 100% correctness will be extremely difficult, so we are 
-    looking for reasonable correctness and good code quality.
-
-
-Q. What answers should I provide to questions where the Limit Application does not contain an answer?
-A. Leave them blank.
-
-
-Q. Why don't you provide empty Second Applications?
-A. To us, a filled-out Second Application is the same as an empty Second Application, plus a small increase in the difficulty of text extraction.
-
-
-Q. What should I do for non-text questions, like checkboxes, etc.?
-A. You can treat these however you wish. Outputting just the name of the checkbox(es) to check would be fine. This is in "bonus points" territory -- the text questions themselves are hard enough already.
-
-
-Q. How similar do two questions have to be for me to use similar answers?
-A. Up to you. There's no perfect solution here. 
-
-
-Q. What if I can't extract the questions from the Second Applications?
-A. If you think you can't get that done, then feel free to just write out a .TXT or .CSV of the questions, and use that for the rest of the problem.
-
-
-### Hints
-
-We strongly recommend you make use of OpenAI's GPT-4 API. If you run into rate limits, costs, or any other issues, let us know and we can help.
-
-There are several different parts to this problem -- text extraction, relevant information retrieval, question-specific text generation, etc. 
-- Don't let yourself get bogged down too deep in any one of them.
-- There are many different ways to attack this problem and its parts. For example, you can think about using embedding similarity for questions. 
-    Or you can pull all the questions and answers and use them as a large system prompt. 
-
-### Deliverable
-
-In addition to your code, write up some notes/thoughts about your approach in a markdown file.
-
-You may send back a .zip solution to john@limit.com, or create a private github repository with your solution,
-and add `datamine` and `alexbecker` as members. If you create the private github repository, please send us an email
-so we are sure to see the notification.
