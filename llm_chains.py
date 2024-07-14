@@ -5,7 +5,7 @@ from langchain_core.output_parsers import JsonOutputParser
 from typing import List, Optional
 from langchain_openai import OpenAI, ChatOpenAI
 
-model = ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key="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", temperature=0)
+model = ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key="<ENTER_OPENAI_KEY_HERE>", temperature=0)
 
 class Answer(BaseModel):
     answer: str = Field(description="answer for the given query")
